@@ -37,7 +37,7 @@ REACT_APP_API_BASE=http://localhost:3001
 ```
 
 ## 🔗 Backend API
-See the [backend README](https://github.com/kvanonckelen/event-api/README.md) for API routes and details.
+See the [backend README](https://github.com/kvanonckelen/event-api/blob/main/README.md) for API routes and details.
 
 ## 📄 License
 MIT © Kevin Van Onckelen
