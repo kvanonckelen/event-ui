@@ -15,10 +15,6 @@ A React-based admin dashboard for managing webhook integrations, configuring not
 ```
 src/
 ├── components/         # React components (Dashboard, Viewer, etc.)
-├── context/            # React Context for settings
-├── models/             # Sequelize models (Event, etc.)
-├── pages/              # Login, Dashboard, Event detail views
-├── utils/              # Helper functions (fetch, auth, etc.)
 └── App.jsx             # Main app with routing
 ```
 
